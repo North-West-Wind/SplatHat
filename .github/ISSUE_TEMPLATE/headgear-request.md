@@ -2,7 +2,7 @@
 name: Headgear request
 about: Request a headgear for this project
 title: ''
-labels: ''
+labels: headgear
 assignees: ''
 
 ---
