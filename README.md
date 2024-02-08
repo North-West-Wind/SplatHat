@@ -13,7 +13,7 @@ The reason this dependency is not specified is because there are other mods that
 - Teddy Band (Hed_MSN109)
 
 ### Headgear Requests
-If you want a certain hat to be in Lethal Company, please create a new issue for the request and specify the followings:
+If you want a certain hat to be in Lethal Company, please [create a new issue](https://github.com/North-West-Wind/SplatHat/issues/new/choose) for the request and specify the followings:
 - The headgear's name
 - Your favourite colour for that headgear (if applicable)
 
