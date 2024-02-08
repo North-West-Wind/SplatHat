@@ -10,6 +10,7 @@ The reason this dependency is not specified is because there are other mods that
 ## Current List of Headgear
 - 3D Glasses (Hed_COP120)
 - Classic Straw Boater (Hed_HAT006)
+- Teddy Band (Hed_MSN109)
 
 ### Headgear Requests
 If you want a certain hat to be in Lethal Company, please create a new issue for the request and specify the followings:
